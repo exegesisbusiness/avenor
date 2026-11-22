@@ -1,0 +1,88 @@
+{
+  "drafts": [
+    {
+      "slug": "underwriting-real-estate",
+      "title": "What makes a real estate investment case?",
+      "category": "Investment discipline",
+      "summary": "A framework for distinguishing the economics of a property from the assumptions behind its valuation.",
+      "related": [
+        "investment-philosophy",
+        "investment-strategies"
+      ],
+      "sections": [
+        {
+          "title": "Start with the asset",
+          "body": "The acquisition price is only one element of an investment case. A property’s location, condition, permitted uses and competitive position help determine the demand it can attract and the expenditure needed to sustain it."
+        },
+        {
+          "title": "Understand the cash flows",
+          "body": "An assessment of recurring income should account for vacancy, lease incentives, operating expenses and the timing of capital works. A forecast is more informative when each assumption can be traced to evidence."
+        },
+        {
+          "title": "Test the assumptions",
+          "body": "Sensitivity analysis can show how changes in rental income, financing costs, vacancy and exit pricing affect the investment case. It is useful to distinguish risks that can be managed through ownership decisions from those that depend on market conditions."
+        },
+        {
+          "title": "Consider the holding period",
+          "body": "The appropriate investment structure depends on the anticipated ownership horizon, liquidity requirements and the capital needed throughout the life of the asset. The acquisition decision and the stewardship plan should be considered together."
+        }
+      ]
+    },
+    {
+      "slug": "lease-risk-and-asset-performance",
+      "title": "Lease risk and the performance of real assets",
+      "category": "Asset stewardship",
+      "summary": "Why the timing and composition of lease income matter as much as headline occupancy.",
+      "related": [
+        "asset-management",
+        "investment-strategies/office"
+      ],
+      "sections": [
+        {
+          "title": "Look beyond occupancy",
+          "body": "A fully occupied property may still be exposed to a concentration of lease expiries or dependence on a small number of tenants. The distribution of income and the strength of contractual obligations provide additional context."
+        },
+        {
+          "title": "Consider renewal economics",
+          "body": "Renewing an existing tenant and leasing space to a new occupier may involve different incentives, downtime and capital costs. Both alternatives should be evaluated on their expected net cash flows."
+        },
+        {
+          "title": "Plan for the building",
+          "body": "Maintenance, building systems and the adaptability of space influence future leasing options. A capital expenditure plan helps connect the physical condition of the asset to the income assumptions."
+        },
+        {
+          "title": "Review as conditions change",
+          "body": "Market rents, occupier requirements and operating costs can change during ownership. Regular review allows the investment case to be updated against observed performance rather than relying indefinitely on the acquisition assumptions."
+        }
+      ]
+    },
+    {
+      "slug": "location-and-logistics",
+      "title": "Location and the economics of logistics property",
+      "category": "Property markets",
+      "summary": "A perspective on transport access, operational suitability and the costs of industrial real estate.",
+      "related": [
+        "investment-strategies/industrial-logistics",
+        "investment-strategies/strategic-land"
+      ],
+      "sections": [
+        {
+          "title": "Location is operational",
+          "body": "A logistics property serves a network of suppliers, customers and distribution points. Distance alone does not capture the effects of travel time, congestion, road access or the reliability of connections."
+        },
+        {
+          "title": "Match the building to the use",
+          "body": "Clear height, loading provision, circulation, utilities and site configuration can influence the suitability of a building for different occupiers. Adaptability matters where demand may evolve."
+        },
+        {
+          "title": "Assess the total cost",
+          "body": "Occupiers may weigh rent alongside labour, transportation and operating expenses. Understanding these relationships helps place property-level demand in a wider commercial context."
+        },
+        {
+          "title": "Evaluate alternative scenarios",
+          "body": "Infrastructure improvements and changes in supply can affect the attractiveness of locations. An investment assessment should consider alternative scenarios without assuming that a future infrastructure project or occupier commitment is certain."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "themes": [
+    {
+      "title": "Investment discipline",
+      "description": "Valuation, underwriting and the relationship between risk and capital.",
+      "path": "investment-philosophy"
+    },
+    {
+      "title": "Asset stewardship",
+      "description": "Operating performance, leasing and the economics of ownership.",
+      "path": "asset-management"
+    },
+    {
+      "title": "Property markets",
+      "description": "Location, occupier demand and the characteristics of different real asset sectors.",
+      "path": "investment-strategies"
+    }
+  ],
+  "articles": []
+}

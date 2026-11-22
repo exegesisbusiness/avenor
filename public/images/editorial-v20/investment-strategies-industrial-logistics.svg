@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title">
+<title id="title">Conceptual real-estate illustration for Industrial and logistics</title>
+<defs><pattern id="paper" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#d5d6cf" stroke-width=".55"/></pattern><linearGradient id="light" x2="0" y2="1"><stop stop-color="#ebe9e2"/><stop offset="1" stop-color="#d9ddd8"/></linearGradient></defs>
+<rect width="1200" height="675" fill="#e9e9e2"/><rect x="0" y="0" width="820" height="675" fill="url(#paper)"/>
+<path d="M28 597H792M28 610H792" stroke="#9a9f9b" stroke-width="1"/>
+<circle cx="640" cy="175" r="91" fill="#ded7c5" opacity=".72"/>
+<g opacity=".18" stroke="#596e74" fill="none"><path d="M80 175H782M80 355H782M175 58V617M370 58V617M555 58V617" stroke-width="1"/></g>
+<polygon points="120,340 590,300 765,362 276,410" fill="#c7c4bc"/>
+        <polygon points="120,340 276,410 276,510 120,437" fill="#596774"/>
+        <polygon points="276,410 765,362 765,470 276,510" fill="#8795a0"/>
+        <polygon points="120,340 590,300 765,362 276,410" fill="#d4d8d6" stroke="#58656c" stroke-width="2"/>
+        <path d="M282 442 753 395M282 478 753 431" stroke="#dae2e1" stroke-width="3"/>
+        <g fill="#354658"><rect x="334" y="440" width="49" height="65" transform="skewY(-5)"/><rect x="448" y="440" width="49" height="65" transform="skewY(-5)"/><rect x="562" y="440" width="49" height="65" transform="skewY(-5)"/><rect x="676" y="440" width="49" height="65" transform="skewY(-5)"/></g>
+        <path d="M90 555H780" stroke="#acb4ae" stroke-width="4"/>
+<g fill="none" stroke="#a78a5c" stroke-width="2" opacity=".9"><path d="M88 267V160H187"/><circle cx="88" cy="267" r="5" fill="#a78a5c"/><path d="M690 115H770V195"/></g>
+<text x="74" y="79" fill="#866c44" font-size="15" font-family="Arial,sans-serif" letter-spacing="4">PROPERTY / ANALYSIS</text>
+<text x="739" y="639" text-anchor="end" fill="#566577" font-size="13" letter-spacing="3">ILLUSTRATIVE STUDY / 08</text>
+<rect x="820" width="380" height="675" fill="#142437"/>
+<path d="M862 105H1150" stroke="#bc9e68" stroke-width="3"/>
+<text x="862" y="88" fill="#d4bf96" font-size="14" font-family="Arial,sans-serif" letter-spacing="4">AVENOR / FOCUS</text>
+<text x="862" y="174" fill="#f3f1e9" font-size="25" font-family="Georgia,serif">ASSET CONSIDERATIONS</text>
+<g transform="translate(873,246)"><circle cx="0" cy="-5" r="4" fill="#b9a276"/><text x="20" y="0" font-size="19" fill="#e2e7e7">CONNECTIONS</text><path d="M20 24H225" stroke="#728394" stroke-width="1"/></g><g transform="translate(873,324)"><circle cx="0" cy="-5" r="4" fill="#b9a276"/><text x="20" y="0" font-size="19" fill="#e2e7e7">CIRCULATION</text><path d="M20 24H225" stroke="#728394" stroke-width="1"/></g><g transform="translate(873,402)"><circle cx="0" cy="-5" r="4" fill="#b9a276"/><text x="20" y="0" font-size="19" fill="#e2e7e7">UTILITIES</text><path d="M20 24H225" stroke="#728394" stroke-width="1"/></g>
+<text x="862" y="618" fill="#a7b7bc" font-size="13" letter-spacing="1">INVESTMENT AND MANAGEMENT</text>
+</svg>

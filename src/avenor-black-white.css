@@ -1,0 +1,7 @@
+
+/* Avenor — black-and-white photography */
+/* Keep logos and website interface colours unchanged. */
+
+img:not([src*="logo" i]):not([alt*="logo" i]) {
+    filter: grayscale(100%) !important;
+}

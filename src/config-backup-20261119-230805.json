@@ -1,0 +1,663 @@
+{
+  "key": "avenor",
+  "name": "Avenor",
+  "legalName": "Avenor Capital Private Limited",
+  "tagline": "Capital. Assets. Enduring Value.",
+  "industry": "Real Estate Investment & Asset Management",
+  "hero": "Capital. Assets.\nEnduring Value.",
+  "intro": "Strategic real estate investments focused on asset ownership, disciplined capital allocation and long-term value creation.",
+  "email": "",
+  "phone": "+91 22 2658 4912",
+  "address": "Suite 402, Bandra Kurla Complex Road, G Block BKC, Bandra East, Mumbai, Maharashtra 400051, India",
+  "cin": "",
+  "leadership": [
+    {
+      "name": "Arjun Mehra",
+      "slug": "arjun-mehra",
+      "role": "Managing Partner & Chief Investment Officer",
+      "initials": "AM",
+      "summary": "Leads investment strategy, capital allocation and investment decision-making across the real estate portfolio.",
+      "bio": "Arjun approaches property investment through the relationship between purchase price, sustainable cash flows and the risks of ownership. His early work in investment analysis developed into a broader focus on portfolio strategy and capital allocation. He co-founded Avenor in 2019 to establish a disciplined approach to real estate ownership, grounded in valuation and long-term asset fundamentals. As CIO, he leads investment thesis development, acquisition screening and investment committee deliberations, working with the finance, research and risk teams to challenge assumptions before capital is committed. He also reviews exit alternatives and the continuing relevance of each investment thesis.",
+      "experience": 20,
+      "startYear": 2006,
+      "joinYear": 2019,
+      "education": [
+        "Bachelor of Commerce (B.Com.) — University of Delhi",
+        "MBA — MIT Sloan School of Management"
+      ],
+      "career": [
+        {
+          "period": "2006–2010",
+          "title": "Investment analysis and property valuation",
+          "description": ""
+        },
+        {
+          "period": "2010–2015",
+          "title": "Real estate underwriting and portfolio strategy",
+          "description": ""
+        },
+        {
+          "period": "2015–2019",
+          "title": "Strategic investment and capital allocation",
+          "description": ""
+        },
+        {
+          "period": "2019–Present",
+          "title": "Managing Partner & Chief Investment Officer — Avenor Capital",
+          "description": ""
+        }
+      ],
+      "focus": [
+        "Investment thesis development",
+        "DCF valuation",
+        "risk-adjusted return assessment",
+        "strategic asset allocation",
+        "acquisition and exit strategy",
+        "investment committee governance",
+        "investment cycle analysis",
+        "downside scenario evaluation"
+      ],
+      "sectors": "Office; logistics; industrial; retail; income-producing mixed-use assets",
+      "research": [
+        "Real estate cycles",
+        "entry pricing",
+        "capital allocation under uncertainty",
+        "long-duration asset returns"
+      ],
+      "placeholder": true
+    },
+    {
+      "name": "Nandita Rao",
+      "slug": "nandita-rao",
+      "role": "Founding Partner & Head of Acquisitions",
+      "initials": "NR",
+      "summary": "Leads acquisition underwriting, commercial diligence and transaction execution.",
+      "bio": "Nandita concentrates on converting a potential acquisition into an evidence-based investment decision. She examines the quality of rental income, lease obligations, operating costs, capital expenditure and location fundamentals before recommending transaction terms. Her career began in acquisitions underwriting and developed towards coordinating financial, legal and technical reviews. As a co-founder of Avenor, she leads the acquisition process from initial screening through negotiation and closing readiness. Her team works with external advisers where specialist legal or technical opinions are needed. She distinguishes between risks that can be priced, risks that require contractual protection and risks that justify declining an opportunity.",
+      "experience": 17,
+      "startYear": 2009,
+      "joinYear": 2019,
+      "education": [
+        "Bachelor of Commerce (B.Com.) — University of Mumbai",
+        "MBA — Indian Institute of Management Calcutta"
+      ],
+      "career": [
+        {
+          "period": "2009–2013",
+          "title": "Acquisition analysis and commercial diligence",
+          "description": ""
+        },
+        {
+          "period": "2013–2016",
+          "title": "Financial underwriting and asset-level review",
+          "description": ""
+        },
+        {
+          "period": "2016–2019",
+          "title": "Transaction coordination and acquisition strategy",
+          "description": ""
+        },
+        {
+          "period": "2019–Present",
+          "title": "Founding Partner & Head of Acquisitions — Avenor Capital",
+          "description": ""
+        }
+      ],
+      "focus": [
+        "Acquisition underwriting",
+        "property-level cash flow modelling",
+        "cap rate and comparable analysis",
+        "lease and rent-roll diligence",
+        "transaction structuring",
+        "diligence coordination",
+        "price sensitivity",
+        "closing readiness"
+      ],
+      "sectors": "Commercial offices; industrial and logistics; retail; mixed-use properties",
+      "research": [
+        "Evidence quality",
+        "acquisition pricing",
+        "cash-flow sensitivity",
+        "adverse selection in property markets"
+      ],
+      "placeholder": true
+    },
+    {
+      "name": "Dev Malpani",
+      "slug": "dev-malpani",
+      "role": "Chief Operating Officer",
+      "initials": "DM",
+      "summary": "Oversees operations as Chief Operating Officer, drawing on his background in technical due diligence, development feasibility and construction risk.",
+      "bio": "Dev focuses on the physical and delivery characteristics that can alter a property investment thesis. His engineering and construction management background developed towards project controls, technical assessment and redevelopment planning. As Chief Operating Officer at Avenor, Dev oversees operational coordination, bringing his technical background to the assessment of building condition, development potential and capital works. For existing assets, he evaluates redevelopment alternatives and major capital projects alongside asset management and finance. His technical experience informs operational decisions involving cost, scheduling and project risk.",
+      "experience": 16,
+      "startYear": 2010,
+      "joinYear": 2023,
+      "education": [
+        "Bachelor of Technology (B.Tech.) in Civil Engineering — Indian Institute of Technology Delhi",
+        "Master of Technology (M.Tech.) in Construction Engineering and Management — Indian Institute of Technology Delhi"
+      ],
+      "career": [
+        {
+          "period": "2010–2014",
+          "title": "Civil engineering and construction coordination",
+          "description": ""
+        },
+        {
+          "period": "2014–2018",
+          "title": "Project controls and construction planning",
+          "description": ""
+        },
+        {
+          "period": "2018–2023",
+          "title": "Technical diligence and development advisory",
+          "description": ""
+        },
+        {
+          "period": "2023–Present",
+          "title": "Chief Operating Officer — Avenor Capital",
+          "description": ""
+        }
+      ],
+      "focus": [
+        "Technical due diligence",
+        "development feasibility",
+        "building condition assessment",
+        "construction cost review",
+        "project scheduling",
+        "redevelopment assessment",
+        "procurement analysis",
+        "capital works risk"
+      ],
+      "sectors": "Commercial buildings; industrial facilities; logistics; redevelopment projects",
+      "research": [
+        "Construction economics",
+        "embodied carbon",
+        "development uncertainty",
+        "lifecycle cost analysis"
+      ],
+      "placeholder": true
+    },
+    {
+      "name": "Siddharth Bansal",
+      "slug": "siddharth-bansal",
+      "role": "Chief Financial Officer — Finance & Capital Markets",
+      "initials": "SB",
+      "summary": "Leads financial management, treasury, financing strategy and capital structure analysis.",
+      "bio": "Siddharth connects the economics of real estate assets with the financing obligations of their owners. His background in accounting and corporate finance evolved towards property financing, liquidity management and capital structure assessment. At Avenor, he oversees financial planning, treasury and reporting processes, evaluates debt and equity alternatives and monitors refinancing exposure. He works with acquisitions and portfolio management to assess financing costs, debt service capacity and covenant headroom. His approach prioritises sustainable funding arrangements, reliable financial information and sufficient liquidity across market cycles. He also holds an MBA from New York University (NYU) and a PhD in Finance from Boston University.",
+      "experience": 19,
+      "startYear": 2007,
+      "joinYear": 2022,
+      "education": [
+        "Bachelor of Commerce (Honours) — University of Delhi",
+        "Chartered Accountancy (CA), professional qualification — Institute of Chartered Accountants of India (ICAI)",
+        "Master of Business Administration (MBA) — New York University (NYU)",
+        "Doctor of Philosophy (PhD) in Finance — Boston University"
+      ],
+      "career": [
+        {
+          "period": "2007–2012",
+          "title": "Accounting, financial reporting and financial analysis",
+          "description": ""
+        },
+        {
+          "period": "2012–2017",
+          "title": "Corporate finance and debt assessment",
+          "description": ""
+        },
+        {
+          "period": "2017–2022",
+          "title": "Real estate financing and treasury strategy",
+          "description": ""
+        },
+        {
+          "period": "2022–Present",
+          "title": "Chief Financial Officer — Finance & Capital Markets — Avenor Capital",
+          "description": ""
+        }
+      ],
+      "focus": [
+        "Treasury and liquidity planning",
+        "debt financing",
+        "capital structure",
+        "refinancing analysis",
+        "DSCR and LTV monitoring",
+        "covenant assessment",
+        "financial reporting",
+        "cash flow forecasting",
+        "lender coordination"
+      ],
+      "sectors": "Commercial real estate; income-producing property; property holding structures",
+      "research": [
+        "Cost of capital",
+        "debt maturity risk",
+        "real estate credit markets",
+        "liquidity management"
+      ],
+      "placeholder": true
+    },
+    {
+      "name": "Vikram Shah",
+      "slug": "vikram-shah",
+      "role": "Director",
+      "initials": "VS",
+      "summary": "Focuses on operating governance, internal controls and coordination across investment and asset-management functions.",
+      "bio": "Vikram focuses on the institutional processes that make investment decisions accountable and repeatable. Beginning in investment operations, he developed an interest in decision records, reporting workflows and operational controls. As a director at Avenor, he contributes to operating governance, internal controls and the coordination of responsibilities across the asset lifecycle. His remit includes vendor governance, process design, information management and coordination with finance and risk specialists. He works to separate investment recommendations, approvals and execution responsibilities so that operational efficiency does not come at the expense of oversight.",
+      "experience": 18,
+      "startYear": 2008,
+      "joinYear": 2019,
+      "education": [
+        "Bachelor of Commerce (B.Com.) — Gujarat University",
+        "Master of Business Administration (MBA), operations focus — Institute of Management, Nirma University"
+      ],
+      "career": [
+        {
+          "period": "2008–2012",
+          "title": "Investment operations and reporting",
+          "description": ""
+        },
+        {
+          "period": "2012–2016",
+          "title": "Process controls and operating coordination",
+          "description": ""
+        },
+        {
+          "period": "2016–2019",
+          "title": "Governance and business operations",
+          "description": ""
+        },
+        {
+          "period": "2019–Present",
+          "title": "Director — Avenor Capital",
+          "description": ""
+        }
+      ],
+      "focus": [
+        "Operating model design",
+        "approval workflows",
+        "internal controls",
+        "governance reporting",
+        "operational risk",
+        "vendor oversight",
+        "business continuity",
+        "investment record management"
+      ],
+      "sectors": "Investment operations; commercial property ownership; multi-asset portfolios",
+      "research": [
+        "Decision accountability",
+        "operational resilience",
+        "governance design",
+        "information quality"
+      ],
+      "placeholder": true
+    },
+    {
+      "name": "Rohan Kapoor",
+      "slug": "rohan-kapoor",
+      "role": "Director — Asset Management",
+      "initials": "RK",
+      "summary": "Translates investment objectives into asset business plans, operating priorities and property performance reviews.",
+      "bio": "Rohan views asset management as the active stewardship of a property after acquisition. His engineering background and experience in commercial property operations inform his assessment of building condition, operating costs and capital works. He joined Avenor in 2020 to lead asset-level business planning, working with property operators and leasing specialists to improve income durability and long-term asset relevance. He reviews annual budgets, capital expenditure priorities and performance against underwriting assumptions. His work distinguishes ongoing maintenance from strategic investment in a property, and considers how operational decisions influence net operating income and asset value.",
+      "experience": 16,
+      "startYear": 2010,
+      "joinYear": 2020,
+      "education": [
+        "Bachelor of Technology (B.Tech.) in Civil Engineering — Manipal Institute of Technology, Manipal"
+      ],
+      "career": [
+        {
+          "period": "2010–2014",
+          "title": "Property operations and engineering coordination",
+          "description": ""
+        },
+        {
+          "period": "2014–2017",
+          "title": "Capital works and operating performance",
+          "description": ""
+        },
+        {
+          "period": "2017–2020",
+          "title": "Commercial asset business planning",
+          "description": ""
+        },
+        {
+          "period": "2020–Present",
+          "title": "Director — Asset Management — Avenor Capital",
+          "description": ""
+        }
+      ],
+      "focus": [
+        "NOI analysis",
+        "asset business plans",
+        "operating budgets",
+        "capital expenditure planning",
+        "property manager oversight",
+        "asset repositioning",
+        "lifecycle maintenance",
+        "building performance indicators"
+      ],
+      "sectors": "Office; industrial; logistics; commercial mixed-use properties",
+      "research": [
+        "Lifecycle capital expenditure",
+        "operating efficiency",
+        "building performance",
+        "asset obsolescence"
+      ],
+      "placeholder": true
+    },
+    {
+      "name": "Shreya Iyer",
+      "slug": "shreya-iyer",
+      "role": "Director — Portfolio Management",
+      "initials": "SI",
+      "summary": "Oversees portfolio construction, performance analysis and alignment of asset-level decisions with portfolio objectives.",
+      "bio": "Shreya examines how individual properties collectively contribute to the performance and resilience of a portfolio. Her background in investment reporting developed towards portfolio analysis and allocation review. At Avenor, she monitors exposure by asset class, geography, tenant and lease maturity, and evaluates how acquisitions, disposals and capital expenditure affect portfolio objectives. She coordinates periodic performance reviews and separates operating performance from market-driven valuation changes. Working with the CIO and risk director, she assesses concentration and diversification trade-offs without treating property-level returns as independent of broader portfolio conditions.",
+      "experience": 15,
+      "startYear": 2011,
+      "joinYear": 2020,
+      "education": [
+        "Bachelor of Commerce (B.Com.) — University of Madras",
+        "Postgraduate Diploma in Management (PGDM), finance focus — Loyola Institute of Business Administration, Chennai"
+      ],
+      "career": [
+        {
+          "period": "2011–2014",
+          "title": "Investment reporting and financial analysis",
+          "description": ""
+        },
+        {
+          "period": "2014–2017",
+          "title": "Portfolio performance and exposure analysis",
+          "description": ""
+        },
+        {
+          "period": "2017–2020",
+          "title": "Portfolio strategy and allocation review",
+          "description": ""
+        },
+        {
+          "period": "2020–Present",
+          "title": "Director — Portfolio Management — Avenor Capital",
+          "description": ""
+        }
+      ],
+      "focus": [
+        "Portfolio construction",
+        "performance attribution",
+        "concentration analysis",
+        "diversification",
+        "valuation review",
+        "return measurement",
+        "portfolio liquidity assessment",
+        "allocation monitoring"
+      ],
+      "sectors": "Multi-asset commercial property portfolios; office; retail; industrial and logistics",
+      "research": [
+        "Portfolio concentration",
+        "valuation comparability",
+        "risk-adjusted performance",
+        "allocation across property cycles"
+      ],
+      "placeholder": true
+    },
+    {
+      "name": "Kabir Sethi",
+      "slug": "kabir-sethi",
+      "role": "Director — Leasing & Occupier Strategy",
+      "initials": "KS",
+      "summary": "Leads leasing strategy, tenant positioning and sustainable rental income planning.",
+      "bio": "Kabir studies the relationship between occupier demand and the income potential of commercial property. His background in office leasing and occupier advisory developed into a focus on tenant retention, lease structures and asset positioning. At Avenor, he works with asset management to define leasing priorities, assess market rental levels and evaluate the economic implications of incentives, vacancy periods and renewals. He considers tenant requirements alongside lease expiry concentration and tenant credit considerations, balancing near-term occupancy with long-term income resilience.",
+      "experience": 14,
+      "startYear": 2012,
+      "joinYear": 2021,
+      "education": [
+        "Bachelor of Commerce (B.Com.) — Savitribai Phule Pune University (formerly University of Pune)",
+        "Postgraduate Diploma in Management (PGDM), marketing focus — Institute of Management Technology, Nagpur"
+      ],
+      "career": [
+        {
+          "period": "2012–2015",
+          "title": "Office leasing and market analysis",
+          "description": ""
+        },
+        {
+          "period": "2015–2018",
+          "title": "Occupier advisory and lease negotiations",
+          "description": ""
+        },
+        {
+          "period": "2018–2021",
+          "title": "Leasing strategy and commercial asset positioning",
+          "description": ""
+        },
+        {
+          "period": "2021–Present",
+          "title": "Director — Leasing & Occupier Strategy — Avenor Capital",
+          "description": ""
+        }
+      ],
+      "focus": [
+        "Rental benchmarking",
+        "lease structuring",
+        "occupancy planning",
+        "tenant retention",
+        "lease expiry analysis",
+        "incentive economics",
+        "tenant credit coordination",
+        "occupier market analysis"
+      ],
+      "sectors": "Office; retail; logistics; flexible workspace",
+      "research": [
+        "Workplace change",
+        "rental demand",
+        "tenant retention",
+        "lease maturity risk"
+      ],
+      "placeholder": true
+    },
+    {
+      "name": "Priya Narayanan",
+      "slug": "priya-narayanan",
+      "role": "Director — Investment Risk & Analytics",
+      "initials": "PN",
+      "summary": "Leads independent investment risk analysis, quantitative modelling and portfolio stress testing.",
+      "bio": "Priya brings statistical reasoning to decisions involving uncertain cash flows, changing market conditions and incomplete property data. Her professional background developed from quantitative analysis into financial risk modelling and investment scenario assessment. At Avenor, she challenges underwriting assumptions, assesses portfolio exposures and develops stress tests for rental declines, vacancy, interest rate changes and refinancing pressures. Her remit is distinct from investment origination: she provides independent analytical review and escalates material risks through the proposed governance framework. She emphasises model limitations, data quality and the need to interpret statistical results in the context of illiquid real estate markets.",
+      "experience": 15,
+      "startYear": 2011,
+      "joinYear": 2023,
+      "education": [
+        "Bachelor of Statistics (Honours) — Indian Statistical Institute",
+        "Master of Statistics (M.Stat.) — Indian Statistical Institute"
+      ],
+      "career": [
+        {
+          "period": "2011–2015",
+          "title": "Quantitative analysis and statistical modelling",
+          "description": ""
+        },
+        {
+          "period": "2015–2019",
+          "title": "Financial risk and scenario modelling",
+          "description": ""
+        },
+        {
+          "period": "2019–2023",
+          "title": "Investment risk and portfolio analytics",
+          "description": ""
+        },
+        {
+          "period": "2023–Present",
+          "title": "Director — Investment Risk & Analytics — Avenor Capital",
+          "description": ""
+        }
+      ],
+      "focus": [
+        "Scenario and stress testing",
+        "sensitivity analysis",
+        "statistical modelling",
+        "concentration risk",
+        "counterparty risk",
+        "liquidity risk",
+        "model validation",
+        "risk dashboards",
+        "data quality controls"
+      ],
+      "sectors": "Commercial property portfolios; income-producing assets; real estate debt exposures",
+      "research": [
+        "Uncertainty modelling",
+        "illiquid asset risk",
+        "correlated property exposures",
+        "model robustness"
+      ],
+      "placeholder": true
+    },
+    {
+      "name": "Tara Khanna",
+      "slug": "tara-khanna",
+      "role": "Director — Strategic Partnerships",
+      "initials": "TK",
+      "summary": "Develops strategic relationships and evaluates potential commercial and investment collaborations.",
+      "bio": "Tara approaches partnerships as long-term arrangements requiring alignment of objectives, incentives and responsibilities. Her background in real estate business development and stakeholder coordination evolved towards the assessment of joint venture opportunities and institutional relationships. At Avenor, she leads early partnership discussions, evaluates strategic fit and coordinates internal review with investment, finance and governance teams. She focuses on understanding partner capabilities, decision rights and commercial expectations before a proposal progresses. Her remit is partnership development, not an independent authority to approve investments or solicit regulated investment products.",
+      "experience": 13,
+      "startYear": 2013,
+      "joinYear": 2021,
+      "education": [
+        "Bachelor of Arts (B.A.) in Economics — University of Mumbai",
+        "Master of Management Studies (MMS) — K. J. Somaiya Institute of Management, Mumbai"
+      ],
+      "career": [
+        {
+          "period": "2013–2016",
+          "title": "Real estate business development",
+          "description": ""
+        },
+        {
+          "period": "2016–2019",
+          "title": "Stakeholder and commercial relationship management",
+          "description": ""
+        },
+        {
+          "period": "2019–2021",
+          "title": "Strategic collaboration assessment",
+          "description": ""
+        },
+        {
+          "period": "2021–Present",
+          "title": "Director — Strategic Partnerships — Avenor Capital",
+          "description": ""
+        }
+      ],
+      "focus": [
+        "Partnership evaluation",
+        "joint venture commercial assessment",
+        "stakeholder coordination",
+        "relationship development",
+        "partner due diligence coordination",
+        "commercial proposal review",
+        "governance alignment"
+      ],
+      "sectors": "Commercial real estate; developers; property operators; institutional counterparties",
+      "research": [
+        "Partnership incentives",
+        "joint venture governance",
+        "long-term commercial relationships"
+      ],
+      "placeholder": true
+    },
+    {
+      "name": "Ananya Menon",
+      "slug": "ananya-menon",
+      "role": "Vice President — Investment Research",
+      "initials": "AM",
+      "summary": "Produces market intelligence and economic analysis to support investment screening and portfolio decisions.",
+      "bio": "Ananya studies the economic and spatial forces that shape property demand. Her background in economics and property-market research informs her analysis of employment growth, business activity, infrastructure connectivity and development supply. At Avenor, she leads research assignments supporting acquisition screening and periodic portfolio review. She develops market briefs, comparative location assessments and demand scenarios, making data sources and methodological limitations explicit. Her work connects macroeconomic conditions with local property-market fundamentals, while avoiding the assumption that aggregate growth automatically translates into demand for a particular asset.",
+      "experience": 8,
+      "startYear": 2018,
+      "joinYear": 2022,
+      "education": [
+        "Bachelor of Arts (B.A.) in Economics — University of Delhi",
+        "Master of Arts (M.A.) in Economics — University of Hyderabad"
+      ],
+      "career": [
+        {
+          "period": "2018–2022",
+          "title": "Economic analysis and property-market research",
+          "description": ""
+        },
+        {
+          "period": "2022–Present",
+          "title": "Vice President — Investment Research — Avenor Capital",
+          "description": ""
+        }
+      ],
+      "focus": [
+        "Market research",
+        "economic indicators",
+        "rental and vacancy analysis",
+        "supply pipeline monitoring",
+        "spatial market assessment",
+        "econometric analysis",
+        "demand forecasting",
+        "comparative location research"
+      ],
+      "sectors": "Office; logistics; industrial; retail; urban property markets",
+      "research": [
+        "Employment geography",
+        "urban economics",
+        "rental dynamics",
+        "infrastructure and property demand"
+      ],
+      "placeholder": true
+    }
+  ],
+  "formEndpoint": "",
+  "siteUrl": "https://avenor-capital.upbeat-tick-0617.chatgpt.site",
+  "jurisdiction": {
+    "state": "",
+    "city": "",
+    "authority": "",
+    "masterPlan": "",
+    "developmentRegulations": "",
+    "buildingByeLaws": ""
+  },
+  "services": [
+    {
+      "title": "Investment Philosophy",
+      "slug": "investment-philosophy",
+      "heading": "The discipline of ownership.",
+      "description": "Avenor considers real estate through the relationship between the price of an asset, the durability of its cash flows and the risks of holding it over time.",
+      "items": [
+        "Understand the market and micro-location",
+        "Assess cash-flow resilience and downside exposure",
+        "Align capital with a clear ownership thesis",
+        "Review performance throughout the asset lifecycle"
+      ]
+    },
+    {
+      "title": "Investment Strategies",
+      "slug": "investment-strategies",
+      "heading": "Different assets. Distinct investment cases.",
+      "description": "Property sectors differ in the sources of demand, income characteristics, development requirements and capital needs. Our investment perspective starts with those differences.",
+      "items": [
+        "Commercial Real Estate",
+        "Office Assets",
+        "Retail Properties",
+        "Industrial & Logistics",
+        "a10 Assets",
+        "Land & Strategic Property Investments"
+      ]
+    },
+    {
+      "title": "Asset Management",
+      "slug": "asset-management",
+      "heading": "Stewardship beyond acquisition.",
+      "description": "Asset management connects the investment thesis with the day-to-day and long-term decisions that influence property performance.",
+      "items": [
+        "Asset acquisition strategy and investment due diligence",
+        "Asset performance monitoring",
+        "Leasing strategy and rental income optimisation",
+        "Property portfolio oversight",
+        "Capital appreciation strategy",
+        "Asset lifecycle planning"
+      ]
+    }
+  ]
+}

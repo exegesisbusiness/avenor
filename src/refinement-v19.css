@@ -1,0 +1,87 @@
+/* V19 — scoped finishing pass; V17 accessibility rules remain in place. */
+#root .n16-footer .n16-footer-intro p{color:inherit;opacity:1}
+#root .n16-footer.n16-a .n16-footer-intro p{color:#f0e7d5}
+#root .n16-footer .n16-bottom{color:inherit}
+#root .n16-footer .n16-office-link{display:inline-flex;align-items:center;gap:8px}
+#root .n16-footer .n19-footer-group summary{cursor:pointer;list-style:none;display:flex;justify-content:space-between;align-items:center;gap:16px;min-height:44px;font-weight:600;padding:8px 0}
+#root .n16-footer .n19-footer-group summary::-webkit-details-marker{display:none}
+#root .n16-footer .n19-footer-group summary::after{content:'+';font-size:1.25rem;line-height:1}
+#root .n16-footer .n19-footer-group[open] summary::after{content:'−'}
+#root .n16-footer .n19-footer-group .n16-links{padding:4px 0 15px}
+#root .n16-footer .n19-footer-group .n16-links a{min-height:32px;display:inline-flex;align-items:center}
+#root .cv15-hero>p:last-child:not(.cv15-kicker){margin-bottom:0}
+#root .cv15-a .cv15-hero>p:not(.cv15-kicker),#root .ins-a .ins-mast>p:not(.ins-kicker){color:#eef1f4}
+#root .cv15-a .cv15-hero .cv15-kicker,#root .ins-a .ins-mast .ins-kicker{color:#e7cfa3}
+#root .cv15-a .cv15-hero h1,#root .ins-a .ins-mast h1{color:#fff}
+#root .ins-a .ins-mast a{color:#f2e7d2}
+#root .cv15-body:has(.cv15-unavailable){grid-template-columns:minmax(0,1.2fr) minmax(0,.8fr);gap:clamp(24px,5vw,70px);padding-block:clamp(30px,4vw,58px)}
+#root .cv15-c .cv15-body:has(.cv15-unavailable){grid-template-columns:minmax(0,1.2fr) minmax(0,.8fr)}
+#root .cv15-c .cv15-body:has(.cv15-unavailable) aside{grid-column:1;grid-row:1;border-left:0;padding-left:0}
+#root .cv15-c .cv15-body:has(.cv15-unavailable) .cv15-unavailable{grid-column:2;grid-row:1}
+#root .cv15-unavailable{border-top:1px solid #bcb9ae;padding-top:18px;align-self:start}
+#root .cv15-unavailable h2{font-size:clamp(1.3rem,2vw,1.8rem);margin-bottom:12px}
+#root .cv15-unavailable p{line-height:1.65;margin:0}
+#root .n19-portrait img{display:block;width:100%;aspect-ratio:4/5;object-fit:cover;object-position:center 30%}
+#root .n19-portrait-fallback{display:grid;place-items:center;aspect-ratio:4/5;background:#e4e1d8;color:#242722;font-size:1.5rem}
+#root .n19-profile-name{display:block;line-height:1.35}
+#root .n19-profile-role{display:block;font-size:.84rem;line-height:1.45;margin-top:4px}
+#root .n19-portrait{text-decoration:none;min-width:0}
+#root .n19-portrait:hover .n19-profile-name{text-decoration:underline;text-underline-offset:4px}
+#root .ex-a .ex-hero p{color:#e9edf0}
+#root .n19-portfolio-focus{padding:clamp(32px,5vw,70px) 7%;display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:7%;border-bottom:1px solid #c8c8c1;background:#eae9e2}
+#root .n19-portfolio-focus h2{font-size:clamp(28px,3.7vw,48px)}
+#root .n19-portfolio-focus p{margin-bottom:14px;max-width:62ch}
+#root .ex-a .ex-index a:focus-visible,#root .ex-c .ex-index a:focus-visible{outline-offset:-3px}
+@media(max-width:760px){
+#root>.n16-footer{padding:28px 6% 20px}
+#root .n16-footer .n16-footer-intro{padding-bottom:18px;gap:10px;align-items:flex-start;flex-direction:column}
+#root .n16-footer .n16-footer-grid{display:grid;grid-template-columns:minmax(0,1fr);gap:0;padding:8px 0 16px}
+#root .n16-footer .n19-footer-group{border-bottom:1px solid currentColor;border-bottom-color:#ffffff30}
+#root .n16-footer.n16-c .n19-footer-group{border-bottom-color:#c9c4b6}
+#root .n16-footer .n16-office{padding:18px 0 0;gap:5px}
+#root .n16-footer .n16-bottom{padding-top:15px;gap:12px}
+#root .cv15-body:has(.cv15-unavailable){gap:24px;padding:28px 6%}
+#root .cv15-c .cv15-body:has(.cv15-unavailable) aside{order:0}
+#root .cv15-hero{padding:36px 6%}
+#root .ins-mast{padding:38px 6%}
+#root .n19-portfolio-focus{grid-template-columns:1fr;gap:14px;padding:30px 6%}
+}
+/* Avenor — institutional hierarchy, compact profile mast and sector index */
+#root .av5-mast{grid-template-columns:minmax(0,1fr) minmax(0,260px);gap:clamp(25px,5vw,75px);padding:38px max(8%,calc((100% - 1030px)/2));align-items:center}
+#root .av5-mast .v4-portrait{max-width:260px;justify-self:start}
+#root .av5-mast h1{color:#fff;font-size:clamp(36px,4.5vw,64px);margin:14px 0 10px}
+#root .av5-mast .av4-title{color:#ead4a6;line-height:1.5}
+#root .av5-reading{padding-block:clamp(34px,4vw,58px)}
+#root .av7-tier-2 .av4-grid{grid-template-columns:repeat(3,minmax(0,1fr));gap:30px 25px}
+#root .av7-tier-3 .av4-grid{grid-template-columns:repeat(3,minmax(0,1fr));gap:25px}
+#root .av7-tier-3 .av4-person:only-child{grid-column:1/-1;display:grid;grid-template-columns:minmax(90px,150px) minmax(0,1fr);gap:5px 24px;max-width:650px;align-items:center}
+#root .av7-tier-3 .av4-person:only-child .v4-portrait{grid-row:1/3}
+#root .av7-tier-3 .av4-person:only-child .av4-person-name{margin:0;align-self:end}
+#root .av7-tier-3 .av4-person:only-child .av4-role{align-self:start;margin:0}
+#root .av4-directory{padding-block:50px 64px}
+#root .av8-people{grid-template-columns:minmax(0,.7fr) minmax(0,1.3fr);gap:6%;padding:clamp(38px,6vw,78px) 0;align-items:start}
+#root .av8-people>div{max-width:none}
+#root .n19-home-portraits{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin-top:26px}
+#root .n19-home-portraits .n19-profile-name{font-size:.92rem;margin-top:8px;font-weight:600}
+#root .n19-home-portraits .n19-profile-role{font-size:.72rem;color:#4d5964}
+#root .a9-masthead.n19-about-mast{min-height:0;grid-template-columns:minmax(0,1.2fr) minmax(0,.8fr);padding:clamp(45px,7vw,100px) 7%;gap:8%;align-items:end}
+#root .n19-about-mast .a9-mast-copy{padding:0}
+#root .n19-about-mast .a9-mast-copy h1{margin:0}
+#root .n19-about-mast .n19-about-intro{color:#eef1f4;max-width:48ch;font-size:clamp(16px,1.7vw,21px)}
+#root .a9-execs a.n19-exec{grid-template-columns:78px minmax(0,1fr) auto;gap:4px 18px;align-items:center}
+#root .a9-execs .n19-exec img,#root .a9-execs .n19-exec .n19-portrait-fallback{width:78px;aspect-ratio:4/5;object-fit:cover;object-position:center 30%;grid-column:1;grid-row:1/3}
+#root .a9-execs .n19-exec h3{grid-column:2;align-self:end}
+#root .a9-execs .n19-exec p{grid-column:2;align-self:start}
+#root .a9-execs .n19-exec svg{grid-column:3;grid-row:1/3}
+#root .ex-a.n19-strategy .ex-index>div{grid-template-columns:repeat(3,minmax(0,1fr));gap:20px 28px}
+#root .ex-a.n19-strategy .ex-index a{border-top:2px solid #a0824e;border-bottom:0;min-height:0;padding:18px 0 12px}
+#root .n19-sector-number{display:block;color:#765c32;font-size:.76rem;font-weight:600;letter-spacing:.09em;margin-bottom:12px}
+#root .ex-a.n19-sector .ex-topics{grid-template-columns:repeat(3,minmax(0,1fr));gap:clamp(18px,3vw,42px)}
+#root .ex-a.n19-sector .ex-topics h2{font-size:clamp(24px,2.5vw,34px)}
+#root .ex-a.n19-sector .ex-hero h1{font-size:clamp(38px,5vw,72px)}
+#root .ex-a.n19-sector .ex-hero{border-bottom:4px solid var(--sector-accent,#b49b68)}
+#root .ex-a.n19-sector-commercial{--sector-accent:#b49b68}#root .ex-a.n19-sector-office{--sector-accent:#9aaeb8}#root .ex-a.n19-sector-retail{--sector-accent:#b88e70}#root .ex-a.n19-sector-industrial-logistics{--sector-accent:#91a9a1}#root .ex-a.n19-sector-residential{--sector-accent:#a9b290}#root .ex-a.n19-sector-strategic-land{--sector-accent:#c5aa83}
+@media(max-width:950px){#root .ex-a.n19-strategy .ex-index>div,#root .ex-a.n19-sector .ex-topics{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:760px){#root .av8-people{grid-template-columns:1fr;gap:10px}#root .n19-home-portraits{grid-template-columns:repeat(2,minmax(0,1fr));gap:18px 12px}#root .a9-masthead.n19-about-mast{grid-template-columns:1fr;gap:20px;padding:40px 6%}#root .ex-a.n19-strategy .ex-index>div,#root .ex-a.n19-sector .ex-topics{grid-template-columns:1fr;gap:18px}#root .av7-tier-2 .av4-grid,#root .av7-tier-3 .av4-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:22px 15px}}
+@media(max-width:680px){#root .av5-mast{grid-template-columns:1fr;padding:30px 6%;gap:22px}#root .av5-mast .v4-portrait{max-width:230px}#root .av7-tier-3 .av4-person:only-child{grid-template-columns:minmax(90px,125px) minmax(0,1fr);gap:4px 14px}}
+@media(max-width:360px){#root .av7-tier-2 .av4-grid{grid-template-columns:1fr}}

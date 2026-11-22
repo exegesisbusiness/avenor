@@ -1,0 +1,8 @@
+
+/* Professional portrait colour correction */
+#root img[src*="images/people/"],
+#root .v4-portrait img,
+#root .n19-portrait img,
+#root .n19-exec img {
+    filter: brightness(0.88) contrast(0.96) saturate(0.83) sepia(0.03);
+}

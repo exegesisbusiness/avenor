@@ -1,0 +1,254 @@
+{
+  "pages": {
+    "investment-philosophy": {
+      "title": "Investment Philosophy",
+      "headline": "Investment philosophy.",
+      "intro": "Avenor considers real estate through the relationship between the price of an asset, the durability of its cash flows and the risks of holding it over time.",
+      "topics": [
+        {
+          "title": "Asset fundamentals",
+          "body": "Location, accessibility, physical condition, tenant demand and competing supply inform the underlying investment thesis."
+        },
+        {
+          "title": "Capital and risk",
+          "body": "Underwriting considers financing costs, vacancy, capital expenditure and the sensitivity of returns to changes in assumptions."
+        },
+        {
+          "title": "Ownership horizon",
+          "body": "Acquisition, ongoing stewardship and potential exit decisions are considered together, rather than as isolated events."
+        }
+      ],
+      "people": [
+        "arjun-mehra",
+        "nandita-rao",
+        "siddharth-bansal",
+        "priya-narayanan",
+        "ananya-menon"
+      ]
+    },
+    "investment-strategies": {
+      "title": "Investment Strategies",
+      "headline": "Investment strategies by property sector.",
+      "intro": "The source of occupier demand, income profile, development requirements and capital needs varies by property sector. Explore the factors relevant to each investment strategy.",
+      "topics": [
+        {
+          "title": "Market selection",
+          "body": "Local supply, demand and market structure inform the assessment of each opportunity."
+        },
+        {
+          "title": "Investment structure",
+          "body": "The economics of the asset must be considered alongside financing, ownership arrangements and the intended holding period."
+        },
+        {
+          "title": "Portfolio context",
+          "body": "Concentration, cash-flow resilience and the relationship with other exposures shape the investment assessment."
+        }
+      ],
+      "people": [
+        "arjun-mehra",
+        "nandita-rao",
+        "shreya-iyer",
+        "priya-narayanan",
+        "ananya-menon",
+        "tara-khanna"
+      ]
+    },
+    "asset-management": {
+      "title": "Asset Management",
+      "headline": "Managing real estate assets.",
+      "intro": "Asset management connects the investment thesis with the day-to-day and long-term decisions that influence property performance.",
+      "topics": [
+        {
+          "title": "Operating performance",
+          "body": "Review rental income, operating costs, occupancy and performance against the assumptions of the business plan."
+        },
+        {
+          "title": "Leasing and occupiers",
+          "body": "Consider tenant retention, lease maturity, market rents, incentives and the suitability of the property for occupier needs."
+        },
+        {
+          "title": "Capital works",
+          "body": "Assess maintenance, redevelopment and capital expenditure in the context of asset condition, cost and longer-term value."
+        },
+        {
+          "title": "Portfolio review",
+          "body": "Consider asset-level decisions alongside portfolio exposures, financing obligations and ownership objectives."
+        }
+      ],
+      "people": [
+        "dev-malpani",
+        "vikram-shah",
+        "rohan-kapoor",
+        "kabir-sethi",
+        "shreya-iyer",
+        "siddharth-bansal"
+      ]
+    },
+    "investment-strategies/commercial": {
+      "title": "Commercial Real Estate",
+      "headline": "The economics of commercial property.",
+      "intro": "Commercial property investment depends on the relationship between occupier demand, location, rental income and the cost of maintaining a competitive asset.",
+      "topics": [
+        {
+          "title": "Location and market",
+          "body": "Evaluate accessibility, competing stock, business activity and the prospects for occupier demand."
+        },
+        {
+          "title": "Income and leases",
+          "body": "Consider tenant quality, lease duration, rent reviews, vacancy and costs associated with releasing space."
+        },
+        {
+          "title": "Asset condition",
+          "body": "Assess capital requirements, operating efficiency and the adaptability of the property to changing needs."
+        }
+      ],
+      "people": [
+        "nandita-rao",
+        "rohan-kapoor",
+        "kabir-sethi",
+        "ananya-menon"
+      ]
+    },
+    "investment-strategies/office": {
+      "title": "Office Assets",
+      "headline": "Space, occupiers and income.",
+      "intro": "Office investment requires an understanding of how businesses use space and how the quality and location of a building influence leasing demand.",
+      "topics": [
+        {
+          "title": "Occupier market",
+          "body": "Assess accessibility, amenities, competing office supply and tenant requirements."
+        },
+        {
+          "title": "Leasing profile",
+          "body": "Review lease expiries, rent incentives, tenant concentration and renewal prospects."
+        },
+        {
+          "title": "Building performance",
+          "body": "Consider building systems, maintenance and capital works required to sustain relevance."
+        }
+      ],
+      "people": [
+        "kabir-sethi",
+        "rohan-kapoor",
+        "nandita-rao"
+      ]
+    },
+    "investment-strategies/retail": {
+      "title": "Retail Properties",
+      "headline": "Understanding the retail catchment.",
+      "intro": "Retail property is shaped by consumer demand, connectivity, tenant mix and the ability of a location to attract recurring visits.",
+      "topics": [
+        {
+          "title": "Catchment",
+          "body": "Examine surrounding households, access, spending patterns and competing retail destinations."
+        },
+        {
+          "title": "Tenancy",
+          "body": "Consider the commercial characteristics of tenants, lease structures and vacancy exposure."
+        },
+        {
+          "title": "Adaptability",
+          "body": "Evaluate layout, operational requirements and potential capital works as retail patterns change."
+        }
+      ],
+      "people": [
+        "kabir-sethi",
+        "rohan-kapoor",
+        "ananya-menon"
+      ]
+    },
+    "investment-strategies/industrial-logistics": {
+      "title": "Industrial & Logistics",
+      "headline": "Location in the movement of goods.",
+      "intro": "Industrial and logistics assets connect land, transport infrastructure and occupier operations. Their suitability depends on more than the building alone.",
+      "topics": [
+        {
+          "title": "Connectivity",
+          "body": "Consider road access, distribution networks, labour availability and proximity to markets."
+        },
+        {
+          "title": "Physical suitability",
+          "body": "Assess loading, clearances, circulation, utilities and the requirements of potential occupiers."
+        },
+        {
+          "title": "Income and expenditure",
+          "body": "Evaluate lease commitments, maintenance needs and the investment required to support operational use."
+        }
+      ],
+      "people": [
+        "nandita-rao",
+        "dev-malpani",
+        "rohan-kapoor"
+      ]
+    },
+    "investment-strategies/residential": {
+      "title": "Residential Investment Assets",
+      "headline": "Housing demand and long-term value.",
+      "intro": "Residential investment requires an understanding of household demand, affordability, location and the operating characteristics of housing assets.",
+      "topics": [
+        {
+          "title": "Demand",
+          "body": "Consider household formation, employment access, local supply and attainable rents."
+        },
+        {
+          "title": "Property economics",
+          "body": "Assess acquisition cost, operating expenditure, vacancy and capital requirements."
+        },
+        {
+          "title": "Portfolio perspective",
+          "body": "Consider geographic concentration, liquidity and the sensitivity of income to changing market conditions."
+        }
+      ],
+      "people": [
+        "ananya-menon",
+        "shreya-iyer",
+        "priya-narayanan"
+      ]
+    },
+    "investment-strategies/strategic-land": {
+      "title": "Land & Strategic Property Investments",
+      "headline": "Land in its development context.",
+      "intro": "Land investment depends on ownership rights, planning constraints, infrastructure availability and the commercial feasibility of future uses.",
+      "topics": [
+        {
+          "title": "Site and context",
+          "body": "Assess access, location, surrounding development, services and physical constraints."
+        },
+        {
+          "title": "Feasibility",
+          "body": "Consider permissible uses, development assumptions, costs and potential timing of approvals."
+        },
+        {
+          "title": "Capital exposure",
+          "body": "Evaluate holding costs, uncertainty, exit alternatives and the sensitivity of value to development scenarios."
+        }
+      ],
+      "people": [
+        "nandita-rao",
+        "dev-malpani",
+        "arjun-mehra",
+        "priya-narayanan",
+        "tara-khanna"
+      ]
+    },
+    "portfolio": {
+      "title": "Portfolio",
+      "headline": "Real estate portfolio.",
+      "intro": "Avenor’s investment focus encompasses several property sectors. The investment strategies section explains the factors considered when evaluating these assets.",
+      "topics": [],
+      "people": [
+        "arjun-mehra",
+        "shreya-iyer",
+        "rohan-kapoor"
+      ]
+    }
+  },
+  "sectors": [
+    "investment-strategies/commercial",
+    "investment-strategies/office",
+    "investment-strategies/retail",
+    "investment-strategies/industrial-logistics",
+    "investment-strategies/residential",
+    "investment-strategies/strategic-land"
+  ]
+}

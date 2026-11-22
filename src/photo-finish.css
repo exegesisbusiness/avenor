@@ -1,0 +1,107 @@
+
+/* AVENOR: approved photographic tone */
+#root img[src*="images/"],
+#root .v4-portrait > img,
+#root .av5-profile .v4-portrait > img,
+#root .n19-portrait img,
+#root .n19-exec img {
+    filter: brightness(76%) contrast(92%)
+            saturate(63%) sepia(28%) !important;
+}
+
+/* Restore full portrait frames */
+#root .av4-directory .v4-portrait {
+    width: 100%;
+    aspect-ratio: 4 / 5;
+    overflow: hidden;
+}
+
+#root .av4-directory .v4-portrait > img {
+    width: 100%;
+    height: 100%;
+    max-height: none;
+    max-width: none;
+    aspect-ratio: auto;
+    object-fit: cover;
+    display: block;
+}
+
+/* Compact executive and director galleries */
+#root .av4-directory .av7-tier-1 .av4-grid,
+#root .av4-directory .av7-tier-2 .av4-grid {
+    grid-template-columns: repeat(3, minmax(0, 280px));
+    gap: 28px;
+}
+
+/* Managing partner */
+#root .av4-directory .av7-tier-0 .v4-portrait {
+    max-width: 300px;
+}
+
+/* Investment professional */
+#root .av4-directory .av7-tier-3 .av4-person:only-child {
+    grid-template-columns: minmax(0, 220px) minmax(0, 1fr);
+}
+
+@media (max-width: 760px) {
+    #root .av4-directory .av7-tier-1 .av4-grid,
+    #root .av4-directory .av7-tier-2 .av4-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 18px;
+    }
+
+    #root .av4-directory .av7-tier-3 .av4-person:only-child {
+        grid-template-columns: minmax(0, 150px) minmax(0, 1fr);
+    }
+}
+
+@media (max-width: 360px) {
+    #root .av4-directory .av7-tier-1 .av4-grid,
+    #root .av4-directory .av7-tier-2 .av4-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* AVENOR MONOCHROME PORTRAITS */
+
+/* Team gallery, individual biographies and leadership */
+#root img[src*="images/people/"],
+#root .av4-directory .v4-portrait > img,
+#root .av4-profile .v4-portrait > img,
+#root .av5-profile .v4-portrait > img,
+#root .av5-mast .v4-portrait > img,
+#root .n19-portrait img,
+#root .n19-exec img {
+    filter: grayscale(100%) brightness(92%)
+            contrast(105%) !important;
+}
+
+/* AVENOR BALANCED DIRECTORY */
+
+#root .av4-directory .av4-dir-heading,
+#root .av4-directory .av7-tier {
+    width: 100%;
+    max-width: 896px;
+    margin-inline: auto;
+}
+
+#root .av4-directory .av7-tier-1 .av4-grid,
+#root .av4-directory .av7-tier-2 .av4-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 28px;
+}
+
+@media (max-width: 760px) {
+    #root .av4-directory .av7-tier-1 .av4-grid,
+    #root .av4-directory .av7-tier-2 .av4-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 18px;
+    }
+}
+
+@media (max-width: 360px) {
+    #root .av4-directory .av7-tier-1 .av4-grid,
+    #root .av4-directory .av7-tier-2 .av4-grid {
+        grid-template-columns: 1fr;
+    }
+}
