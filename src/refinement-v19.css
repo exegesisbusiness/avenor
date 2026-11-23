@@ -46,7 +46,7 @@
 #root .ins-mast{padding:38px 6%}
 #root .n19-portfolio-focus{grid-template-columns:1fr;gap:14px;padding:30px 6%}
 }
-/* Avenor — institutional hierarchy, compact profile mast and sector index */
+/* Norvelian — institutional hierarchy, compact profile mast and sector index */
 #root .av5-mast{grid-template-columns:minmax(0,1fr) minmax(0,260px);gap:clamp(25px,5vw,75px);padding:38px max(8%,calc((100% - 1030px)/2));align-items:center}
 #root .av5-mast .v4-portrait{max-width:260px;justify-self:start}
 #root .av5-mast h1{color:#fff;font-size:clamp(36px,4.5vw,64px);margin:14px 0 10px}

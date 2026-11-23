@@ -1,4 +1,4 @@
-# Avenor website
+# Norvelian website
 
 Independent React + TypeScript + Vite project with Tailwind CSS and Lucide icons. Architectural imagery is hosted locally; fonts load from Google Fonts. No analytics, credentials, tracking or document storage are included.
 
@@ -16,7 +16,7 @@ With an empty `formEndpoint` and `email`, validation works but nothing is sent. 
 
 ## GitHub Pages
 
-Create a separate GitHub repository named `avenor-website`; add these files and push to main. Under Settings → Pages choose GitHub Actions. The supplied workflow builds and deploys the `dist` artifact. For repository hosting set repository variables `VITE_BASE_PATH` to `/avenor-website/` and `SITE_URL` to `https://YOUR-ACCOUNT.github.io/avenor-website`. For root-domain hosting set `VITE_BASE_PATH` to `/`. GitHub Pages serves the generated directory entrypoints, including direct deep links. Never commit secrets or node_modules.
+Create a separate GitHub repository named `norvelian-website`; add these files and push to main. Under Settings → Pages choose GitHub Actions. The supplied workflow builds and deploys the `dist` artifact. For repository hosting set repository variables `VITE_BASE_PATH` to `/norvelian-website/` and `SITE_URL` to `https://YOUR-ACCOUNT.github.io/norvelian-website`. For root-domain hosting set `VITE_BASE_PATH` to `/`. GitHub Pages serves the generated directory entrypoints, including direct deep links. Never commit secrets or node_modules.
 
 ## Custom domain and HTTPS
 
