@@ -16,6 +16,7 @@ export default function NorvelianHome(){
         <div><p className="av8-label">Real estate investment &amp; asset management</p><h1 id="av8-title">Capital. Assets.<br/>Enduring value.</h1></div>
         <div className="av8-opening-intro"><p>{c.intro}</p><a className="av8-link" href={link('investment-philosophy')}>Our investment philosophy <ArrowUpRight size={19}/></a></div>
       </div>
+      <figure className="av8-panorama"><img src={base+'images/office-campus-v17.webp'} alt="Landscaped office campus with glass-fronted buildings at dusk" width="1672" height="941" fetchPriority="high" decoding="async"/></figure>
     </section>
     <section className="av8-mandate" aria-labelledby="av8-mandate-title">
       <div className="av8-mandate-intro"><p className="av8-label">Our approach</p><h2 id="av8-mandate-title">From acquisition to asset management.</h2><p>Our work considers acquisition terms, financing, leasing, operating costs and the long-term requirements of each asset.</p><a className="av8-link" href={link('about')}>About Norvelian <ArrowRight size={17}/></a></div>
